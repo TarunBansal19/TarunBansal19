@@ -1,6 +1,6 @@
-# Hi, I'm Tarun 👋
+# Tarun Bansal
 
-> Backend Developer • AI Enthusiast • Building scalable systems & AI-powered products
+Backend Developer passionate about AI, distributed systems, and building products that people love to use.
 
 ---
 
