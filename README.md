@@ -1,54 +1,30 @@
 # Tarun Bansal
 
-Backend Developer passionate about AI, distributed systems, and building products that people love to use.
+Backend & GenAI Developer · B.Tech CSE, JIIT Noida (2023–2027)
+
+bansaltarun2004@gmail.com · [LinkedIn](www.linkedin.com/in/epsilon1719) · [GitHub](https://github.com/TarunBansal19)
+
+- International Winner, ITU Data Hackathon 2026 — presenting in Geneva, Switzerland (Sep 2026)
 
 ---
 
-## About
+## Stack
 
-- 🎓 B.Tech CSE @ JIIT Noida (2023–2027)
-- ⚙️ Passionate about Backend Engineering, Distributed Systems & GenAI
-
----
-
-## Tech Stack
-
-```txt
-Languages    C++ • Python • JavaScript • TypeScript • SQL
-
-Backend      Node.js • Express • Django • FastAPI
-
-Database     PostgreSQL • MySQL • SQLite
-
-AI           OpenAI SDK • LangChain • RAG • Qdrant
-
-DevOps       Docker • Linux • Git • AWS
-```
+**Languages:** JavaScript, TypeScript, Python, C++, SQL
+**Backend:** Node.js, Express, Django, FastAPI, REST APIs, WebSockets
+**Databases:** PostgreSQL, MySQL, Prisma, Redis
+**GenAI:** OpenAI SDK, RAG, Qdrant, Vercel AI SDK, MCP
+**Cloud/Tools:** Docker, AWS S3, Git
 
 ---
 
-## Featured Projects
+## Projects
 
-### 🧠 AxiomAI
-AI-powered learning & research workspace that transforms documents and videos into interactive study experiences using Retrieval-Augmented Generation (RAG).
+**[AxiomAI](https://axiom-ai-two-mu.vercel.app/)** — AI learning workspace to chat with PDFs, web pages, and YouTube videos using RAG. Async ingestion with BullMQ/Redis, semantic search via Qdrant, citation-backed answers.
+`Node.js · Express · TypeScript · RAG · OpenAI · Qdrant · Prisma · PostgreSQL`
 
-### 🚀 Origin AI
-Full-stack AI assistant with streaming responses, tool calling, conversation branching, and AI image generation.
+**[Origin AI](https://origin-ai-livid.vercel.app/)** — Full-stack AI assistant with real-time streaming, tool-calling, and persistent chat history.
+`Next.js · Vercel AI SDK · Prisma · Neon Postgres · Clerk`
 
-### 🎨 AlterEgo
-Generative AI avatar platform with asynchronous image generation and real-time progress tracking.
-
----
-
-## Currently
-
-- 🚀 Building AI-powered applications
-- 📚 Learning Distributed Systems & System Design
-- 🌱 Exploring Cloud Infrastructure & GenAI
-
----
-
-## Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/tarun-bansal-23b9a0282/
-- 📫 **bansaltarun2004@gmail.com**
+**[AlterEgo](https://github.com/TarunBansal19/AlterEgo)** — AI avatar generation platform using FLUX Kontext via Replicate API, with async jobs and live progress via SSE.
+`FastAPI · SQLModel · Supabase · Replicate API`
